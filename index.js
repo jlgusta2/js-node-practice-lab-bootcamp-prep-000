@@ -3,7 +3,7 @@
 var name = "Jen"
 var height = 66
 
-console.log("Name:<br>" , name)
+console.log("Name:" , name)
 
 
 console.log("Height:" , height + 1)
