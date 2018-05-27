@@ -6,5 +6,5 @@ var height = 66
 console.log("Name:" , name)
 
 
-console.log("Height:")
-console.log(height + 1 )
+console.log("Height:" , height + 1)
+console.log( )
